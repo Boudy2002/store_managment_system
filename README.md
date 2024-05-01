@@ -1,1 +1,1 @@
-# storemanagment system
+# store managment system
